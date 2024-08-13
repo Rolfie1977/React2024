@@ -1,0 +1,14 @@
+// Header.module.scss
+.headerTitle {
+    font-size: 2rem;
+    color: #3498db;
+    transition: color 0.3s ease;
+    &:hover {
+        color: #1abc9c;
+    }
+}
+
+.headerSubtitle {
+    font-size: 1.2rem;
+    color: #2c3e50;
+}
